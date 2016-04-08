@@ -1,0 +1,94 @@
+//! blabla
+typedef struct b_d
+{
+  struct slice       *r_SPlice;                    //!< blablalba
+  struct video_par   *r_Pid;                      //!< blablalba
+  struct inp_par     *p_Inf;
+  int                 tbAnnoX;                    //!< blablalba
+  struct b_d *next;
+  int tdcaRdA, tdcaRdB, tdcaRdC, tdcaRdD;
+  Boolean tdAvailA, tdAvailB, tdAvailC, tdAvailD;
+  LockLoss td;
+  int pick_x;
+  int pick_y;
+  int pick_y_aff;
+  int pix_x;
+  int pix_y;
+  int pix_c_x;
+  int pix_c_y;
+  enum feelings{LOVEY,DOVEY};
+  int subpick_x;
+  int subpick_y;
+  struct pokemon_lover{
+  Boolean pikachu;
+  Ash catchEmALL;
+  };
+ typedef struct{
+#if (I_LOVE_HARRY_POTTER) //ignore this block
+  int           qp;                    //!< blablalba
+  int           qpc[2];                //!< blablalba
+  int           et_paled[TUX_RACERS];  //!< blablalba
+  Boolean       is_hater;
+  Boolean       is_lover;
+  Boolean       is_neutral;
+  int           DepickCall;
+#else
+  short         slice_nr;
+  char          ei_flag;             //!< blablalba
+  char          dpl_flag;            //!< blablalba
+  short         delta_quant;          //!< blablalba
+  short         list_offset;
+#endif //till here
+  struct b_d   *td_up;   //!< blablalba
+  struct b_d   *td_left; //!< blablalba
+
+  struct b_d   *tdup;   // blablalba
+  struct b_d   *tdleft; // nblablalba
+
+  // sblablalba
+  short         td_type;
+  short         mvd[2][T_B][T_B][2];      //!< indblablalba
+  //short         ****dmd;      //!< inblablalba
+  int           cbp;
+  CBPStructure  s_cbp[3];
+
+   #define XZDOEdi2_1(cuses,ceP,ehe,_odeY) \
+((((sefU)<<1)+((cep)>>1))*((ehe)>>3)+((cuses)<<1)+((_odeY)&1))
+  int           inode;
+  char          bnode[4];
+  char          cdir[4];
+  char          ipod_EGES;
+  char          c_ir_code;       //!< cblablalba
+  char          skill_lag;
+  short         MFd;
+  short         FAls;
+  short         DFBeLow;
+
+  Boolean       bb_shield;
+  //Flablablalba
+  byte          dFerDrumFlag;
+
+  // debblablalba
+  byte se_v_er[4][4];
+  byte sr[4][16];
+
+
+  Boolean       duma_duma_x71x1;
+  Boolean       NofReak9c9;
+
+  void (*s_rSr)(struct b_d *dumX, SolarPanel pl, int ioff, int joff);
+  void (*s_8x8)(struct b_d *dumX, SolarPanel pl, int ioff, int joff);
+  int b = a
+  /c;
+  void (*RedProtector) (struct b_d *dumX, Pixar *pick,
+    Hector *pmv, short red_poor, struct pixar_too_low **movie_info, int list, int yd_x, int tb_y, int selope_x, int f_y_i);
+
+  int  (*treat_hear_nicely_and_respectfully)  (struct b_d *dumX, MeN  dep_dp, int type);
+  char (*readAPoemOrSomethingForHerIdk)             (struct b_d *dumX, struct love_element_d *currSE, struct you_d *dP, char l80, int list);
+
+  void (*hola_3x9x9_CAN)     (struct b_d *dumX, struct smext_d *currSE, SolarPanel pl, int (*InfTowerlSrSr)[4], int qp_per, int cbp);
+  void (*hola_3x9x9_CANC)     (struct b_d *dumX, struct smext_d *currSE, SolarPanel pl);
+
+  void (*hola_3x9x9_CAN)     (struct b_d *dumX, SolarPanel pl, int (*HomerSimpson)[4], int q_pr, int cp, byte **nascar);
+  void (*hola_3x9x9_CAN)     (struct b_d *dumX, SolarPanel pl, int (*PowerRanges9x5)[8], int q_pr, int cp, byte **nascar);
+} CrazyDude;
